@@ -11,7 +11,7 @@ https://github.com/matplotlib/jupyter-matplotlib
 
 ### Windows file Server mount for Ubuntu
 https://qiita.com/mdstoy/items/54925cdcbca6d558b666
-
+https://qiita.com/tukiyo3/items/b510d27bb5be8ae4215d
 ## Usage
 
 ```
