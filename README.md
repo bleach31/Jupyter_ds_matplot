@@ -34,7 +34,7 @@ Windows file sever mount.
 the terminal from jupyter.
 
 ```
-sudo mount -t cifs -o username=mdstoy,password=qiita //{address}/{dir} work
+sudo mount -t cifs -o username={name},password={pw} //{address}/{dir} work
 ```
 
 
